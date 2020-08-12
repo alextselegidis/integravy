@@ -1,3 +1,3 @@
-# Integreative
+# Integravy
 
 > Work in progress
